@@ -1,2 +1,6 @@
 venv
 .env
+.vscode
+.pytest_cache
+logs
+*.service
